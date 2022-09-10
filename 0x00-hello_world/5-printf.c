@@ -1,3 +1,5 @@
+./betty-style.pl main.c
+
 #include<stdio.h>
 
 
