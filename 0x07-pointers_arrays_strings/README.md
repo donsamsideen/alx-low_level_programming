@@ -1,0 +1,1 @@
+another pointers_arrays_string
