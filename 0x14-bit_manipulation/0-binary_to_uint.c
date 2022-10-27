@@ -3,7 +3,7 @@
 #include "holberton.h"
 
 /**
-  * binary_to_uint - Converts a binary number to an unsigned int
+  * binary_to_unit - Converts a binary number to an unsigned int
   * @b: The binary string to converts
   *
   * Return: The positive number converted from a binary
